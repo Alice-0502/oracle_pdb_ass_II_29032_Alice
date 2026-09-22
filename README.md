@@ -20,8 +20,11 @@ The assignment covers:
 1. Creating a new Pluggable Database (PDB)
    ![Screenshot](screenshots/PDB_creation.png.png)
 3. Creating and deleting a temporary PDB
-4. Setting up and accessing Oracle Enterprise Manager (OEM)
-5. Documenting the completed work and providing screenshot evidence
+   ![Screenshot](screenshots/verify_deletion.png.png)
+5. Setting up and accessing Oracle Enterprise Manager (OEM)
+   ![Screenshot](screenshots/Grant_priivileges.png.png)
+7. Documenting the completed work and providing screenshot evidence
+   ![Screenshot](screenshots/Oem_Dashboard.png.png)
 
 All tasks were performed individually in my Oracle environment, and the screenshots included in this repository provide evidence of the completed activities.
 
