@@ -18,7 +18,7 @@ This repository contains my individual work for the Oracle Pluggable Database As
 The assignment covers:
 
 1. Creating a new Pluggable Database (PDB)
-   ![Screenshot](screenShots/PDB_creation.png.png)
+   ![Screenshot](screenshots/PDB_creation.png.png)
 3. Creating and deleting a temporary PDB
 4. Setting up and accessing Oracle Enterprise Manager (OEM)
 5. Documenting the completed work and providing screenshot evidence
